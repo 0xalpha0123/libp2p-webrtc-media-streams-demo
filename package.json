@@ -1,0 +1,14 @@
+{
+    "name": "playground",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "license": "MIT",
+    "type": "module",
+    "devDependencies": {
+        "snowpack": "^2.18.5"
+    },
+    "scripts": {
+        "start": "snowpack dev",
+        "build": "snowpack build"
+    }
+}
